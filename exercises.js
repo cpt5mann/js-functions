@@ -364,8 +364,6 @@ console.log("CHEEEEE-HOOOO!!!! WE goin on road trrrip")
  }else{
 console.log("meh. I guess I'll just stay home")
  }
-//sorry I guess this wasn't how I wa ssupposed to do it? Oh well.
-
-
+//it works...
 
 
